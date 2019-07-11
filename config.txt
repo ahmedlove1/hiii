@@ -1,0 +1,6 @@
+﻿token= NTk4NzkzMzU2MjcyODYxMTg0.XSbzyg.jIfmgJd--lrHKABS-FhOs8lR9lE
+owner= 431636432185065482
+prefix= k
+game= Streaming
+stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
+songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
